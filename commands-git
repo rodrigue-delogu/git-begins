@@ -1,0 +1,9 @@
+Commandes git qui permettent de :e
+
+Cloner un repo :
+git clone [url]
+
+Les trois commandes de push : 
+git add [nom du fichier]
+git commit -m 'commentaire'
+git push -u origin master
