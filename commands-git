@@ -1,1 +1,7 @@
-1MODIFIE autre chose..
+git clone [url]
+git add [nom du fichier]
+git commit -m 'blublu'
+git push -u origin master 
+git pull
+git branch
+git switch
