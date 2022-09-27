@@ -5,4 +5,4 @@ git push -u origin master
 git pull
 git branch
 git switch
-git -D
+git branch -D
