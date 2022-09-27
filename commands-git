@@ -1,8 +1,16 @@
+Cloner un repo :
 git clone [url]
+
+Les trois commandes push :
 git add [nom du fichier]
 git commit -m 'blublu'
 git push -u origin master 
+
 git pull
-git branch
-git switch
-git -D
+
+Les ocmmandes pour créer une branch et pour switch :
+git branch [nom]
+git checkout [nom de branche]
+
+Supprimer une branche :
+git checkout -D [nom de branche]
